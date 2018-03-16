@@ -6,9 +6,6 @@
   "dependencies": {
     "left-pad": "^1.1.0"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "renovate": {
     "pinVersions": false,
     "lockFileMaintenance": {
